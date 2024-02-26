@@ -36,4 +36,6 @@ We all have small mouth. We can only chew the ingredient if it fits the mouth an
 
 punctuation and stop words removal also comes under tokenization but it is a some specific process. You see, a peeled ingredients is good. Because the skin doesn't have the taste, all tastes are inside. So you know what to do.
 
+### Stemming
+We cut each end of the ingredients for the better 
 
